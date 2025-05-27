@@ -16,8 +16,13 @@
 
 🚀 My Skills
 💻 Programming Languages: JavaScript, Java, PHP, SQL, Python
+
 🌐 Frontend: HTML, CSS, React, Next.js
+
 🛠 Backend: Node.js, Express.js
+
 📦 Databases: MySQL, MongoDB
+
 🚀 Version Control: Git & GitHub
+
 🧠 AI & Machine Learning Tools: Python, TensorFlow, Keras, Scikit-learn
