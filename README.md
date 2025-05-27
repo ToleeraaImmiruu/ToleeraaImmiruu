@@ -1,6 +1,6 @@
 🔭 I’m currently working on backend development
-
 🌱 I’m currently learning MERN Stack, Express.js, JavaFX, Node.js, and expanding into AI and Machine Learning using tools like Python, TensorFlow, Keras, and Scikit-learn
+
 👀 I’m interested in Web Development, Backend Development, Java, and Artificial Intelligence
 💞️ I’m looking to collaborate on open-source projects
 💼 I’m also a freelancer on Fiverr and Upwork
