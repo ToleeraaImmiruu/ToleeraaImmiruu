@@ -11,10 +11,13 @@
 🚀 I’m actively involved and addicted to hackathon competitions
 
 📫 Reach me at toleeraa2024@gmail.com
+
 😄 Pronouns: He/Him
+
 ⚡ Fun fact: I love coding and building projects that solve real-world problems!
 
 🚀 My Skills
+
 💻 Programming Languages: JavaScript, Java, PHP, SQL, Python
 
 🌐 Frontend: HTML, CSS, React, Next.js
