@@ -81,3 +81,14 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
+## 🏆 Achievements & Highlights
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ToleeraaImmiruu&row=1&column=3&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Developer%20Program-Member-blue?style=flat-square" alt="Developer Program Member" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=flat-square" alt="Open Source Contributor" />
+</p>
+
