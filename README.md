@@ -3,9 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Tolera+Imiru;Software+Engineer+from+Ethiopia;Full+Stack+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
 </h1>
 
----
-
-## 👨‍💻 About Me
 <h3 align="center">🚀 Software Engineer | MERN Stack Developer | Freelancer</h3>
 
 - 🔭 Currently working as a **MERN Stack Freelancer**  
@@ -14,13 +11,11 @@
 - 📫 Reach me at: **toleraimiru72@gmail.com**  
 - ⚡ Fun fact: *I debug my code more than I write it 😅*
 
----
 ## 💻 Coding in Action
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Man coding on multiple PCs" />
 </div>
 
----
 
 ## 🛠️ Languages & Tools
 <p align="center">
