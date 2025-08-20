@@ -5,7 +5,7 @@
 
 <h3 align="center">🚀 Software Engineer | MERN Stack Developer | Freelancer</h3>
 <table>
-  <tr width="100%">
+  <tr>
     <td valign="top" width="70%">
 - 🔭 Currently working as a <b>MERN Stack Freelancer</b><br>
 - 👯 Collaborating on <a href="https://github.com/ToleeraaImmiruu/Masaa-To-Market">Masa-To-Market</a><br>
@@ -18,7 +18,6 @@
     </td>
   </tr>
 </table>
-
 
 <br clear="both">
 
@@ -53,9 +52,6 @@
   <a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/></a>
 </p>
 
----
-
-
 ## 📊 GitHub Stats
 <p align="center">
   <span style="float: left;">
@@ -68,7 +64,6 @@
 
 <br clear="both">
 
----
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/tolera-imiru-888b5b355" target="_blank">
@@ -80,15 +75,5 @@
   <a href="https://instagram.com/toly_2025" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-</p>
-## 🏆 Achievements & Highlights
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ToleeraaImmiruu&row=1&column=3&margin-w=10" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Developer%20Program-Member-blue?style=flat-square" alt="Developer Program Member" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=flat-square" alt="Open Source Contributor" />
 </p>
 
