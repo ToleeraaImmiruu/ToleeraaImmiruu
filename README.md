@@ -4,18 +4,23 @@
 </h1>
 
 <h3 align="center">🚀 Software Engineer | MERN Stack Developer | Freelancer</h3>
+<table>
+  <tr width="100%">
+    <td valign="top" width="70%">
+- 🔭 Currently working as a <b>MERN Stack Freelancer</b><br>
+- 👯 Collaborating on <a href="https://github.com/ToleeraaImmiruu/Masaa-To-Market">Masa-To-Market</a><br>
+- 🎯 Fiverr: <a href="https://www.fiverr.com/s/o80XB3V">My Fiverr Profile</a><br>
+- 📫 Reach me at: <b>toleraimiru72@gmail.com</b><br>
+- ⚡ Fun fact: <i>I debug my code more than I write it 😅</i><br>
+    </td>
+    <td valign="top" width="60%" align="center">
+      <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Man coding on multiple PCs" />
+    </td>
+  </tr>
+</table>
 
-- 🔭 Currently working as a **MERN Stack Freelancer**  
-- 👯 Collaborating on [Masa-To-Market](https://github.com/ToleeraaImmiruu/Masaa-To-Market)  
-- 🎯 Fiverr: [My Fiverr Profile](https://www.fiverr.com/s/o80XB3V)  
-- 📫 Reach me at: **toleraimiru72@gmail.com**  
-- ⚡ Fun fact: *I debug my code more than I write it 😅*
 
-## 💻 Coding in Action
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Man coding on multiple PCs" />
-</div>
-
+<br clear="both">
 
 ## 🛠️ Languages & Tools
 <p align="center">
@@ -52,10 +57,17 @@
 
 
 ## 📊 GitHub Stats
-<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ToleeraaImmiruu&theme=radical" alt="GitHub Streak" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToleeraaImmiruu&layout=compact&theme=radical" alt="Top Languages" width="400" />
+<p align="center">
+  <span style="float: left;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ToleeraaImmiruu&theme=radical" alt="GitHub Streak" width="400" />
+  </span>
+  <span style="float: right;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToleeraaImmiruu&layout=compact&theme=radical" alt="Top Languages" width="400" />
+  </span>
 </p>
+
+<br clear="both">
+
 ---
 ## 🌐 Connect with Me
 <p align="center">
