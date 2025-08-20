@@ -52,18 +52,10 @@
 
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ToleeraaImmiruu&show_icons=true&theme=radical" alt="GitHub Stats" />
+<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ToleeraaImmiruu&theme=radical" alt="GitHub Streak" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToleeraaImmiruu&layout=compact&theme=radical" alt="Top Languages" width="400" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ToleeraaImmiruu&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToleeraaImmiruu&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 ---
 ## 🌐 Connect with Me
 <p align="center">
